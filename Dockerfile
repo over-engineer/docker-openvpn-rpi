@@ -1,7 +1,7 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Smallest base image
-FROM armhf/alpine:latest
+FROM arm64v8/alpine:latest
 
 LABEL maintainer="Kyle Manna <kyle@kylemanna.com>, Konstantinos Pappas <dev@over-engineer.com>"
 
