@@ -2,9 +2,6 @@
 
 [![Docker Stars](https://img.shields.io/docker/stars/theoverengineer/openvpn-rpi.svg)](https://hub.docker.com/r/theoverengineer/openvpn-rpi/)
 [![Docker Pulls](https://img.shields.io/docker/pulls/theoverengineer/openvpn-rpi.svg)](https://hub.docker.com/r/theoverengineer/openvpn-rpi/)
-[![ImageLayers](https://images.microbadger.com/badges/image/theoverengineer/openvpn-rpi.svg)](https://microbadger.com/#/images/theoverengineer/openvpn-rpi)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fover-engineer%2Fdocker-openvpn-rpi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fover-engineer%2Fdocker-openvpn-rpi?ref=badge_shield)
-
 
 OpenVPN server in a Docker container for Raspberry Pi complete with an EasyRSA PKI CA.
 
